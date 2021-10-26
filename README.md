@@ -1,2 +1,3 @@
 # idm5062.github.io
-New repository: LAB 2 SRA 221
+Welcome to SRA 221
+
